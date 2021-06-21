@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+}
+#main{
+    width: 360px;
+    background-color: orangered;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+header img{
+    width: 100%;
+    height: 150px;
+      
+}
+header{
+    text-align: center;
+    color: white;
+    height: 300px;
+    
+}
+header h1{
+    margin: 20px 0px;
+}
+header p{
+    font-size: 22px;
+}
+ #box{
+    background-color: bisque;
+} 
+#articlebutton{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    
+}
+#articlebutton img{
+    width: 80px;
+    height: 80px;
+    margin: 15px 10px;
+}
+#volume {
+    text-align: center;
+}
+#volume input{
+    width: 100%;
+}
+#volume h2{
+    margin: 20px 0px;
+}
+#buttons{
+    text-align: center;
+    margin: 20px 0px;
+}
+#buttons button{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}
+#color1{
+    background-color: rgb(105, 102, 102);
+}
+#color2{
+    background-color:red;
+}
+#color3{
+    background-color:blue;
+}
+#color4{
+    background-color: orange;
+}
